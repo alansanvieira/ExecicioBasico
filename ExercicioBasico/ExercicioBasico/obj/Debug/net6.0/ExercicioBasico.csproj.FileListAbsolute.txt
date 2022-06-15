@@ -1,0 +1,15 @@
+C:\Users\DiverseDev\Desktop\Nova pasta\ExercicioBasico\ExercicioBasico\obj\Debug\net6.0\ExercicioBasico.csproj.AssemblyReference.cache
+C:\Users\DiverseDev\Desktop\Nova pasta\ExercicioBasico\ExercicioBasico\obj\Debug\net6.0\ExercicioBasico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DiverseDev\Desktop\Nova pasta\ExercicioBasico\ExercicioBasico\obj\Debug\net6.0\ExercicioBasico.AssemblyInfoInputs.cache
+C:\Users\DiverseDev\Desktop\Nova pasta\ExercicioBasico\ExercicioBasico\obj\Debug\net6.0\ExercicioBasico.AssemblyInfo.cs
+C:\Users\DiverseDev\Desktop\Nova pasta\ExercicioBasico\ExercicioBasico\obj\Debug\net6.0\ExercicioBasico.csproj.CoreCompileInputs.cache
+C:\Users\DiverseDev\Desktop\Nova pasta\ExercicioBasico\ExercicioBasico\bin\Debug\net6.0\ExercicioBasico.exe
+C:\Users\DiverseDev\Desktop\Nova pasta\ExercicioBasico\ExercicioBasico\bin\Debug\net6.0\ExercicioBasico.deps.json
+C:\Users\DiverseDev\Desktop\Nova pasta\ExercicioBasico\ExercicioBasico\bin\Debug\net6.0\ExercicioBasico.runtimeconfig.json
+C:\Users\DiverseDev\Desktop\Nova pasta\ExercicioBasico\ExercicioBasico\bin\Debug\net6.0\ExercicioBasico.dll
+C:\Users\DiverseDev\Desktop\Nova pasta\ExercicioBasico\ExercicioBasico\bin\Debug\net6.0\ExercicioBasico.pdb
+C:\Users\DiverseDev\Desktop\Nova pasta\ExercicioBasico\ExercicioBasico\obj\Debug\net6.0\ExercicioBasico.dll
+C:\Users\DiverseDev\Desktop\Nova pasta\ExercicioBasico\ExercicioBasico\obj\Debug\net6.0\refint\ExercicioBasico.dll
+C:\Users\DiverseDev\Desktop\Nova pasta\ExercicioBasico\ExercicioBasico\obj\Debug\net6.0\ExercicioBasico.pdb
+C:\Users\DiverseDev\Desktop\Nova pasta\ExercicioBasico\ExercicioBasico\obj\Debug\net6.0\ExercicioBasico.genruntimeconfig.cache
+C:\Users\DiverseDev\Desktop\Nova pasta\ExercicioBasico\ExercicioBasico\obj\Debug\net6.0\ref\ExercicioBasico.dll
